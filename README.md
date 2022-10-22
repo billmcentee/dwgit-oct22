@@ -1,0 +1,5 @@
+# dwgit-oct22
+experiment in using github with latest version of dreamweaver
+
+Lorem
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lacus vestibulum sed arcu non odio euismod lacinia at. Eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl. Ullamcorper morbi tincidunt ornare massa. Vitae proin sagittis nisl rhoncus mattis rhoncus urna neque viverra. Sed sed risus pretium quam. Scelerisque purus semper eget duis at. Diam sollicitudin tempor id eu nisl nunc mi. Dui id ornare arcu odio ut sem nulla pharetra diam. Turpis egestas integer eget aliquet nibh. Eget felis eget nunc lobortis. Vestibulum sed arcu non odio euismod lacinia. At volutpat diam ut venenatis tellus in metus vulputate. Imperdiet massa tincidunt nunc pulvinar sapien. Nunc sed augue lacus viverra vitae congue. Viverra aliquet eget sit amet tellus cras adipiscing. Donec pretium vulputate sapien nec sagittis.
